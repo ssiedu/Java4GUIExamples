@@ -1,3 +1,7 @@
+
+//working with BorderLayout (default for a frame)
+
+
 import java.awt.*;
 
 public class GUIOne {
